@@ -19,7 +19,7 @@ To run the white box neural network implementations, you need the following:
 ## How to Use the Repository
 - Clone the Repository: Clone this repository to your local machine using the following command:
 ```
-git clone [https://github.com/your_username/repo_name.git](https://github.com/iabhiroop/NeuralNetwork.git)
+git clone https://github.com/iabhiroop/NeuralNetwork.git
 ```
 - Install Dependencies: Ensure you have Python 3.x installed and the required libraries by running:
 ```
